@@ -21,7 +21,7 @@ This project includes a sample demonstration using a synthetic dataset generated
    ```bash
    git clone https://github.com/ThimalCaldera/Traffic-Signal-Optimization-using-Genetic-Algorithm.git
 
-2. Install the required dependencies:
+2. Install the required dependencies on your Jupyter Notebook or Google Colab:
 
    ```bash
    pip install numpy pandas matplotlib
